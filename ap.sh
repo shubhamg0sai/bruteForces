@@ -18,6 +18,9 @@ echo -e "$red {Ctrl C} exit $rset"
 
 echo -e "$red [1] Facebook $rset"
 echo -e "$red [2] Gmail $rset"
+echo -e "$red [3] Yahoo $rset"
+echo -e "$red [4] Instagram $rset"
+echo -e "$red [5] Hot mail $rset"
 echo ""
 echo -e "$"
 read -p  "number-------> " install
