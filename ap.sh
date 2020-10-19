@@ -23,30 +23,33 @@ echo -e "$red [4] Instagram $rset"
 echo -e "$red [5] Hot mail $rset"
 echo ""
 echo -e "$red"
-read -red  "number-------> " N
+read -p "number-------> " N
 
 if [ "$N" -eq "1"  ]; then
  cd
  clear
  termux-setup-storage
  clear
- echo -e $g 'Please Wait ===+['$p'>              '$g']\'
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
  sleep 0.4
  clear
- echo -e $g 'Please Wait ===+['$p'-------------> '$g']\'
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
  sleep 0.4
  clear
- echo -e $g 'Please Wait ===+['$p'-------------->'$g']|'
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
  sleep 0.4
  clear 
- echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
  sleep 0.4
  cd
  git clone https://github.com/ShuBhamg0sain/Fbbrute
  cd Fbbrute
  chmod +x * Shubham
  clear
- echo -e "$g+++++++++++>[$pWelcome to the new update$p$g]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$redWelcome to the new update$red$grn]<+++++++++++++"
  sleep 2 
  python2 Shubham
                         
+else :
+ bash ap.sh
+fi
