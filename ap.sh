@@ -16,16 +16,16 @@ echo " "
 echo -e "$grn BRUTE FORCES $rset"
 echo -e "$red {Ctrl C} exit $rset"
 
-echo -e "$red [1] Facebook $rset"
+echo -e "$red N[1] Facebook $rset"
 echo -e "$red [2] Gmail $rset"
 echo -e "$red [3] Yahoo $rset"
 echo -e "$red [4] Instagram $rset"
 echo -e "$red [5] Hot mail $rset"
 echo ""
-echo -e "$"
-read -p  "number-------> " install
+echo -e "$red"
+read -red  "number-------> " N
 
-if [ "$install" -eq "1"  ]; then
+if [ "$N" -eq "1"  ]; then
  cd
  clear
  termux-setup-storage
@@ -42,11 +42,11 @@ if [ "$install" -eq "1"  ]; then
  echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/fb-cloning-id
- cd fb-cloning-id
- chmod +x * Shubham.py
+ git clone https://github.com/ShuBhamg0sain/Fbbrute
+ cd Fbbrute
+ chmod +x * Shubham
  clear
  echo -e "$g+++++++++++>[$pWelcome to the new update$p$g]<+++++++++++++"
  sleep 2 
- python2 Shubham.py
+ python2 Shubham
                         
