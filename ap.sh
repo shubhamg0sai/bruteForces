@@ -13,5 +13,37 @@ pink='\033[1;35m'
 clear
 echo " "
 echo " "
-echo -e "$red BRUTE FORCES $rset" 
+echo -e "$grn BRUTE FORCES $rset"
+echo -e "$red {Ctrl C} exit $rset"
+
+echo -e "$red [1] Facebook $rset"
+echo -e "$red [2] Gmail $rset"
+echo ""
+echo -e "$"
+read -p  "number-------> " install
+
+if [ "$install" -eq "1"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $g 'Please Wait ===+['$p'>              '$g']\'
+ sleep 0.4
+ clear
+ echo -e $g 'Please Wait ===+['$p'-------------> '$g']\'
+ sleep 0.4
+ clear
+ echo -e $g 'Please Wait ===+['$p'-------------->'$g']|'
+ sleep 0.4
+ clear 
+ echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/fb-cloning-id
+ cd fb-cloning-id
+ chmod +x * Shubham.py
+ clear
+ echo -e "$g+++++++++++>[$pWelcome to the new update$p$g]<+++++++++++++"
+ sleep 2 
+ python2 Shubham.py
                         
