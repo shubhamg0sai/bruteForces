@@ -231,7 +231,7 @@ elif [ "$N" -eq "7"  ]; then
  cd bruteForces
  bash ap.sh
 
-elif [ "$N" -eq 8"  ]; then
+elif [ "$N" -eq "8"  ]; then
  cd
  clear
  termux-setup-storage
