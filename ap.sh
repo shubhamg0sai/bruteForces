@@ -248,13 +248,13 @@ elif [ "$N" -eq 8"  ]; then
  echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/
- cd
- chmod +x * python2
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ chmod +x * bash SG.sh
  clear
  echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
  sleep 2 
- python2
+ bash SG.sh
  cd
  git clone https://github.com/ShuBhamg0sain/bruteForces
  cd bruteForces
