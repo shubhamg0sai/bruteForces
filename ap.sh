@@ -234,8 +234,6 @@ elif [ "$N" -eq "7"  ]; then
 elif [ "$N" -eq "8"  ]; then
  cd
  clear
- termux-setup-storage
- clear
  echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
  sleep 0.4
  clear
@@ -252,13 +250,9 @@ elif [ "$N" -eq "8"  ]; then
  cd bruteForces
  chmod +x * bash SG.sh
  clear
- echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$redWelcome $red$grn]<+++++++++++++"
  sleep 2 
  bash SG.sh
- cd
- git clone https://github.com/ShuBhamg0sain/bruteForces
- cd bruteForces
- bash ap.sh
 
 else :
  bash ap.sh
