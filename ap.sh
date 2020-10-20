@@ -161,13 +161,13 @@ elif [ "$N" -eq "5"  ]; then
  echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/
- cd
- chmod +x * python2
+ git clone https://github.com/ShuBhamg0sain/Hotmail-cracker
+ cd Hotmail-cracker
+ chmod +x * python2 SGHot.py
  clear
- echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$redWelcome to Hotmail Brute Force $red$grn]<+++++++++++++"
  sleep 2 
- python2 
+ python2 SGHot.py
  cd
  git clone https://github.com/ShuBhamg0sain/bruteForces
  cd bruteForces
