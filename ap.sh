@@ -49,7 +49,7 @@ if [ "$N" -eq "1"  ]; then
  cd Fbbrute
  chmod +x * Shubham
  clear
- echo -e "$grn+++++++++++>[$red Welcome to the new update$red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$red Welcome to Facebook brute Force$red$grn]<+++++++++++++"
  sleep 2 
  python2 Shubham
  cd
@@ -78,7 +78,7 @@ elif [ "$N" -eq "2"  ]; then
  cd Gmail-cracker
  chmod +x * python2 SGmail.py
  clear
- echo -e "$grn+++++++++++>[$red Welcome to Hotmail brute Force$red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$red Welcome to gmail brute Force$red$grn]<+++++++++++++"
  sleep 2 
  python2 SGmail.py
  cd
