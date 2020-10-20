@@ -76,11 +76,40 @@ elif [ "$N" -eq "2"  ]; then
  cd
  git clone https://github.com/ShuBhamg0sain/bruteForces
  cd bruteForces
- chmod +x * python2 SGgmail.py
+ chmod +x * python2 Hot.py
  clear
- echo -e "$grn+++++++++++>[$redWelcome to the new update$red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$redWelcome to Hotmail brute Force$red$grn]<+++++++++++++"
  sleep 2 
- python2 SGgmail.py
+ python2 Hot.py
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
+
+elif [ "$N" -eq "3"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ chmod +x * python2 Hot.py
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to Hotmail brute Force$red$grn]<+++++++++++++"
+ sleep 2 
+ python2 Hot.py
  cd
  git clone https://github.com/ShuBhamg0sain/bruteForces
  cd bruteForces
