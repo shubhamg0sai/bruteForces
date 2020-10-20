@@ -74,13 +74,13 @@ if [ "$N" -eq "2"  ]; then
  echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/
- cd Fbbrute
- chmod +x * Shubham
+ git clone https://github.com/ShuBhamg0sain/files
+ cd files
+ chmod +x * Hot.py
  clear
  echo -e "$grn+++++++++++>[$redWelcome to the new update$red$grn]<+++++++++++++"
  sleep 2 
- python2 Shubham
+ python2 Hot.py
  cd
  git clone https://github.com/ShuBhamg0sain/bruteForces
  cd bruteForces
