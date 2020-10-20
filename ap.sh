@@ -49,7 +49,7 @@ if [ "$N" -eq "1"  ]; then
  cd Fbbrute
  chmod +x * Shubham
  clear
- echo -e "$grn+++++++++++>[$redWelcome to the new update$red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$red Welcome to the new update$red$grn]<+++++++++++++"
  sleep 2 
  python2 Shubham
  cd
@@ -78,7 +78,7 @@ elif [ "$N" -eq "2"  ]; then
  cd Gmail-cracker
  chmod +x * python2 SGmail.py
  clear
- echo -e "$grn+++++++++++>[$redWelcome to Hotmail brute Force$red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$red Welcome to Hotmail brute Force$red$grn]<+++++++++++++"
  sleep 2 
  python2 SGmail.py
  cd
@@ -107,7 +107,7 @@ elif [ "$N" -eq "3"  ]; then
  cd Yahoo-cracker
  chmod +x * python2 SGyaho.py
  clear
- echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$red Welcome to Yahoo Brute Force $red$grn]<+++++++++++++"
  sleep 2 
  python2 SGyaho.py
  cd
@@ -115,7 +115,7 @@ elif [ "$N" -eq "3"  ]; then
  cd bruteForces
  bash ap.sh
 
-elif [ "$N" -eq "4"  ]; then
+elif [ "$N" -eq "9"  ]; then
  cd
  clear
  termux-setup-storage
@@ -136,7 +136,7 @@ elif [ "$N" -eq "4"  ]; then
  cd 
  chmod +x * python2
  clear
- echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$red Welcome to Yahoo Brute Force $red$grn]<+++++++++++++"
  sleep 2 
  python2
  cd
@@ -165,7 +165,7 @@ elif [ "$N" -eq "5"  ]; then
  cd Hotmail-cracker
  chmod +x * python2 SGHot.py
  clear
- echo -e "$grn+++++++++++>[$redWelcome to Hotmail Brute Force $red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$red Welcome to Hotmail Brute Force $red$grn]<+++++++++++++"
  sleep 2 
  python2 SGHot.py
  cd
@@ -173,7 +173,7 @@ elif [ "$N" -eq "5"  ]; then
  cd bruteForces
  bash ap.sh
 
-elif [ "$N" -eq "6"  ]; then
+elif [ "$N" -eq "0"  ]; then
  cd
  clear
  termux-setup-storage
@@ -194,7 +194,7 @@ elif [ "$N" -eq "6"  ]; then
  cd
  chmod +x * 
  clear
- echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$red Welcome to Yahoo Brute Force $red$grn]<+++++++++++++"
  sleep 2 
  python2 
  cd
@@ -202,7 +202,7 @@ elif [ "$N" -eq "6"  ]; then
  cd bruteForces
  bash ap.sh
 
-elif [ "$N" -eq "7"  ]; then
+elif [ "$N" -eq "00"  ]; then
  cd
  clear
  termux-setup-storage
@@ -223,7 +223,7 @@ elif [ "$N" -eq "7"  ]; then
  cd 
  chmod +x * 
  clear
- echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$red Welcome to Yahoo Brute Force $red$grn]<+++++++++++++"
  sleep 2 
  python2 
  cd
@@ -250,7 +250,7 @@ elif [ "$N" -eq "8"  ]; then
  cd bruteForces
  chmod +x * bash SG.sh
  clear
- echo -e "$grn+++++++++++>[$redWelcome $red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$red Welcome $red$grn]<+++++++++++++"
  sleep 2 
  bash SG.sh
 
