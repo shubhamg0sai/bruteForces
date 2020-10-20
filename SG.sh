@@ -12,7 +12,7 @@ clear
 echo " "
 echo " "
 echo -e "$grn FIND ME $rset"
-echo -e "{ctrl c} exit"
+echo -e "type bash ap.sh for restart"
 echo -e "$red What app:"
 echo -e "https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q"
 
