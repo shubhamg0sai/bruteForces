@@ -74,13 +74,13 @@ elif [ "$N" -eq "2"  ]; then
  echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/bruteForces
- cd bruteForces
- chmod +x * python2 Hot.py
+ git clone https://github.com/ShuBhamg0sain/Gmail-cracker
+ cd Gmail-cracker
+ chmod +x * python2 SGmail.py
  clear
  echo -e "$grn+++++++++++>[$redWelcome to Hotmail brute Force$red$grn]<+++++++++++++"
  sleep 2 
- python2 Hot.py
+ python2 SGmail.py
  cd
  git clone https://github.com/ShuBhamg0sain/bruteForces
  cd bruteForces
