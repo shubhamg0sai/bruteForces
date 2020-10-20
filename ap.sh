@@ -56,7 +56,209 @@ if [ "$N" -eq "1"  ]; then
  git clone https://github.com/ShuBhamg0sain/bruteForces
  cd bruteForces
  bash ap.sh
-                        
+
+if [ "$N" -eq "2"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/
+ cd Fbbrute
+ chmod +x * Shubham
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to the new update$red$grn]<+++++++++++++"
+ sleep 2 
+ python2 Shubham
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
+
+if [ "$N" -eq "3"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/Fbbrute
+ cd Fbbrute
+ chmod +x * Shubham
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to the new update$red$grn]<+++++++++++++"
+ sleep 2 
+ python2 Shubham
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
+
+if [ "$N" -eq "4"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/
+ cd Fbbrute
+ chmod +x * Shubham
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to the new update$red$grn]<+++++++++++++"
+ sleep 2 
+ python2 Shubham
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
+
+if [ "$N" -eq "5"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/Fbbrute
+ cd Fbbrute
+ chmod +x * Shubham
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to the new update$red$grn]<+++++++++++++"
+ sleep 2 
+ python2 Shubham
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
+
+if [ "$N" -eq "6"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/
+ cd Fbbrute
+ chmod +x * Shubham
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to the new update$red$grn]<+++++++++++++"
+ sleep 2 
+ python2 Shubham
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
+              
+  if [ "$N" -eq "7"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/Fbbrute
+ cd Fbbrute
+ chmod +x * Shubham
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to the new update$red$grn]<+++++++++++++"
+ sleep 2 
+ python2 Shubham
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
+
+if [ "$N" -eq "8"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/
+ cd Fbbrute
+ chmod +x * Shubham
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to the new update$red$grn]<+++++++++++++"
+ sleep 2 
+ python2 Shubham
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh        
 else :
  bash ap.sh
 fi
