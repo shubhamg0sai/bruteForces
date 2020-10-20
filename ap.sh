@@ -57,7 +57,7 @@ if [ "$N" -eq "1"  ]; then
  cd bruteForces
  bash ap.sh
 
-if [ "$N" -eq "2"  ]; then
+elif [ "$N" -eq "2"  ]; then
  cd
  clear
  termux-setup-storage
