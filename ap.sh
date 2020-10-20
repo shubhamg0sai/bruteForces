@@ -107,7 +107,7 @@ elif [ "$N" -eq "3"  ]; then
  cd bruteForces
  chmod +x * python2 Hot.py
  clear
- echo -e "$grn+++++++++++>[$redWelcome to Hotmail brute Force$red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
  sleep 2 
  python2 Hot.py
  cd
