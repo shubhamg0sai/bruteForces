@@ -17,10 +17,13 @@ echo -e "$grn BRUTE FORCES $rset"
 echo -e "$red {Ctrl C} exit $rset"
 
 echo -e "$red N[1] Facebook $rset"
-echo -e "$red [2] Gmail $rset"
-echo -e "$red [3] Yahoo $rset"
-echo -e "$red [4] Instagram $rset"
-echo -e "$red [5] Hot mail $rset"
+echo -e "$red N[2] Gmail $rset"
+echo -e "$red N[3] Yahoo $rset"
+echo -e "$red N[4] Instagram $rset"
+echo -e "$red N[5] Hot mail $rset"
+echo -e "$red N[6] Twitter $rset"
+echo -e "$red N[7] Netflix $rset"
+echo -e "$red N[8] about me $rset"
 echo ""
 echo -e "$red"
 read -p "number-------> " N
@@ -49,6 +52,10 @@ if [ "$N" -eq "1"  ]; then
  echo -e "$grn+++++++++++>[$redWelcome to the new update$red$grn]<+++++++++++++"
  sleep 2 
  python2 Shubham
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
                         
 else :
  bash ap.sh
