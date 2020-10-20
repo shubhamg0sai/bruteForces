@@ -103,13 +103,158 @@ elif [ "$N" -eq "3"  ]; then
  echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/bruteForces
- cd bruteForces
- chmod +x * python2 Hot.py
+ git clone https://github.com/ShuBhamg0sain/Yahoo-cracker
+ cd Yahoo-cracker
+ chmod +x * python2 SGyaho.py
  clear
  echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
  sleep 2 
- python2 Hot.py
+ python2 SGyaho.py
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
+
+elif [ "$N" -eq "4"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/
+ cd 
+ chmod +x * python2
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
+ sleep 2 
+ python2
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
+
+elif [ "$N" -eq "5"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/
+ cd
+ chmod +x * python2
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
+ sleep 2 
+ python2 
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
+
+elif [ "$N" -eq "6"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/
+ cd
+ chmod +x * 
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
+ sleep 2 
+ python2 
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
+
+elif [ "$N" -eq "7"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/
+ cd 
+ chmod +x * 
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
+ sleep 2 
+ python2 
+ cd
+ git clone https://github.com/ShuBhamg0sain/bruteForces
+ cd bruteForces
+ bash ap.sh
+
+elif [ "$N" -eq 8"  ]; then
+ cd
+ clear
+ termux-setup-storage
+ clear
+ echo -e $grn 'Please Wait ===+['$red'>              '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------> '$grn']\'
+ sleep 0.4
+ clear
+ echo -e $grn 'Please Wait ===+['$red'-------------->'$grn']|'
+ sleep 0.4
+ clear 
+ echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
+ sleep 0.4
+ cd
+ git clone https://github.com/ShuBhamg0sain/
+ cd
+ chmod +x * python2
+ clear
+ echo -e "$grn+++++++++++>[$redWelcome to Yahoo Brute Force $red$grn]<+++++++++++++"
+ sleep 2 
+ python2
  cd
  git clone https://github.com/ShuBhamg0sain/bruteForces
  cd bruteForces
