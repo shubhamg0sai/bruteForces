@@ -136,7 +136,7 @@ elif [ "$N" -eq "4"  ]; then
  cd instagram-cracker
  chmod +x * python2 SGinsta.py
  clear
- echo -e "$grn+++++++++++>[$red Welcome to Yahoo Brute Force $red$grn]<+++++++++++++"
+ echo -e "$grn+++++++++++>[$red Welcome to instagram Brute Force $red$grn]<+++++++++++++"
  sleep 2 
  python2 SGinsta.py -h
  cd
