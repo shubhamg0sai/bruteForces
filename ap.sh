@@ -138,7 +138,7 @@ elif [ "$N" -eq "4"  ]; then
  clear
  echo -e "$grn+++++++++++>[$red Welcome to Yahoo Brute Force $red$grn]<+++++++++++++"
  sleep 2 
- python2 SGinsta.py
+ python2 SGinsta.py -h
  cd
  git clone https://github.com/ShuBhamg0sain/bruteForces
  cd bruteForces
