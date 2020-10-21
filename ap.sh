@@ -115,7 +115,7 @@ elif [ "$N" -eq "3"  ]; then
  cd bruteForces
  bash ap.sh
 
-elif [ "$N" -eq "9"  ]; then
+elif [ "$N" -eq "4"  ]; then
  cd
  clear
  termux-setup-storage
@@ -132,13 +132,13 @@ elif [ "$N" -eq "9"  ]; then
  echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/
- cd 
- chmod +x * python2
+ git clone https://github.com/ShuBhamg0sain/instagram-cracker
+ cd instagram-cracker
+ chmod +x * python2 SGinsta.py
  clear
  echo -e "$grn+++++++++++>[$red Welcome to Yahoo Brute Force $red$grn]<+++++++++++++"
  sleep 2 
- python2
+ python2 SGinsta.py
  cd
  git clone https://github.com/ShuBhamg0sain/bruteForces
  cd bruteForces
