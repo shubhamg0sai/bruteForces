@@ -44,8 +44,7 @@ echo -e "$grn               `` ````````   `
                               `       `
                               `      ``
                               ``  `  ``  ``
-                                  `   `
-                                                                      $rset"
+                                  `   `                               $rset"
 echo -e "$grn BRUTE FORCES $rset"
 echo -e "$red {Ctrl C} exit $rset"
 
