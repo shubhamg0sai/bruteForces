@@ -59,6 +59,9 @@ https://t.me/ShuBham_g0sain
  1.
  2.
  
+ # for Hotmail
+ 1.
+ 2.
 
 
 ## Installation
