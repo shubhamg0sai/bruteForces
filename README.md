@@ -53,7 +53,9 @@ https://t.me/ShuBham_g0sain
 
  # for Gmail
  1. Passwords.txt
- 2.
+ 2. Pass1.txt
+ 3. Pass2.txt
+ 4. Pass3.txt
  
  # for Yahoo
  1.
