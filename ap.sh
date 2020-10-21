@@ -24,8 +24,8 @@ echo -e "$blue
 `-`     .-----+o+++/o+/o+++/++o+ossossooooo++/+//::::-.`.`.
        `-+/:--sssssyhyshyhyyyyysyyhyyyyyysyo+os+sooo+///s+/.
        `-/.` :hyyyhhhhshyhhyyhhyyyyyyhhhysyssyyyyyyysoooyy+:
-        ``   /y+o/osyysaaabyShuBhamg0sainsyssyysssso+:-:/s+-          $rset
-echo -e "$red:s+`  `.:/osssssssssssssssssooossso+:.`   -:+/`
+        ``   /y+o/osyysaaabyShuBhamg0sainsyssyysssso+:-:/s+-         
+             :s+`  `.:/osssssssssssssssssooossso+:.`   -:+/`
              -oo.      `.:+++++++++/-/+oooo++/:.       .:::       
   `          `++:          ``.--://:.:////-.`         `.:-.  
   ```         -:/-`             `.:-.-.``           ``.-::
@@ -36,7 +36,7 @@ echo -e "$red:s+`  `.:/osssssssssssssssssooossso+:.`   -:+/`
     `           ````````   ``.``.```   ``..``        ``
                  ``  `      `````.````````````
                              `````.```.`  ````.                       $rset  
-echo -e "$grn               `` ````````   `
+                            `` ````````   `
                             ```` ``` `
                              ``` ```  `  ```
                              ``` ```  `  ``
@@ -44,7 +44,7 @@ echo -e "$grn               `` ````````   `
                               `       `
                               `      ``
                               ``  `  ``  ``
-                                  `   `                               $rset"
+                                  `   `           $rset"
 echo -e "$grn BRUTE FORCES $rset"
 echo -e "$red {Ctrl C} exit $rset"
 
