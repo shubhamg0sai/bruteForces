@@ -32,6 +32,35 @@ Facebook group : https://facebook.com/groups/226519011789922/?ref=group_browse
 Telegram :
 https://t.me/ShuBham_g0sain
 
+
+## Wordlist
+# type these worldlist
+ # for Facebook
+ 1. 1pass01.txt
+ 2. 1pass02.txt
+ 3. 1pass03.txt
+ 4. pass.txt
+ 5. pass2.txt
+ 6. Sg0.txt
+ 7. Sg1.txt
+ 8. Sg2.txt
+ 9. Sg3.txt
+10. Sg4.txt
+11. Word.txt
+12. Passwords.txt
+13. xato-net-10-million-passwords-1000000.txt
+14. xato-net-10-million-passwords-dup.txt
+
+ # for Gmail
+ 1. Passwords.txt
+ 2.
+ 
+ # for Yahoo
+ 1.
+ 2.
+ 
+
+
 ## Installation
 
 pkg update
