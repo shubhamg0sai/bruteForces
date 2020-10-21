@@ -58,12 +58,16 @@ https://t.me/ShuBham_g0sain
  4. Pass3.txt
  
  # for Yahoo
- 1.
- 2.
+ 1. Passwords.txt
+ 2. Pass1.txt
+ 3. Pass2.txt
+ 4. Pass3.txt
  
  # for Hotmail
- 1.
- 2.
+ 1. Passwords.txt
+ 2. Pass1.txt
+ 3. Pass2.txt
+ 4. Pass3.txt
 
 
 ## Installation
