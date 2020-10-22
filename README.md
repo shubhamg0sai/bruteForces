@@ -1,37 +1,3 @@
-("""
- `.-.`         `...`...::/::::::::--..```          `.
- `.-..     `-/oo+//+osyyyssooo+++++++:..--.`       `.
- `.-.. . `:osyys++yhhhys++/-----://+/--------``    `.
- `.-...-.:+ooo++syhhhhyso+:::::--/////:::-:/::--.  `.
-`/---------:-:+osysyyhyo+++oso+/+oo+/++//+ooooo+:---.`
-`/....```  .---/o+++so+/:///++/:+so//++++oo+ooo+/:::-``
-`/...`   ``.```:/://+/-::---::::/+/:////++++o++/:::..``` `
-`-`     .-----+o+++/o+/o+++/++o+ossossooooo++/+//::::-.`.`.
-       `-+/:--sssssyhyshyhyyyyysyyhyyyyyysyo+os+sooo+///s+/.
-       `-/.` :hyyyhhhhshyhhyyhhyyyyyyhhhysyssyyyyyyysoooyy+:
-        ``   /y+o/osyysyyyyyyyyyyyyyysssssyssyysssso+:-:/s+-
-             :s+`  `.:/osssssssssssssssssooossso+:.`   -:+/`
-             -oo.      `.:+++++++++/-/+oooo++/:.       .:::         MEXAW BRUTE FORCE GOLDEN VERSION # FREE 
-  `          `++:          ``.--://:.:////-.`         `.:-.         INSTA  @31421 | TELE @mexaw
-  ```         -:/-`             `.:-.-.``           ``.-::
-  ``````       `.-----..``````````..----.````` ```.::-:--.          Greetz To Mreshdi | Lord Algnob | Tmim_506 |  And All my friend's
-  ``````         .`.::/://::--.``` ```.------.`....:---..
-  ``````      ` .```..-.....`..``  `` `......``````.`````
-  ` `` `        `````````   ``..`  ``  ```.``
-    `           ````````   ``.``.```   ``..``        ``
-                 ``  `      `````.````````````
-                            `````.```.`  ````
-                            `` ````````   `
-                            ```` ``` `
-                             ``` ```  `  ```
-                             ``` ```  `  ``
-                             ``` ``      `
-                              `       `
-                              `      ``
-                              ``  `  ``  ``
-                                  `   `
-""")
-
 # bruteForces
 
 ## screenshot
