@@ -246,13 +246,14 @@ elif [ "$N" -eq "8"  ]; then
  echo -e "$grn+++++++++++++++>$red[Please Wait]$grn<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/bruteForces
- cd bruteForces
- chmod +x * bash SG.sh
+ git clone https://github.com/ShuBhamg0sain/FIND-ME
+ cd FIND-ME
+ bash Find.sh
+ chmod +x * bash Find.sh
  clear
  echo -e "$grn+++++++++++>[$red Welcome $red$grn]<+++++++++++++"
  sleep 2 
- bash SG.sh
+ bash Find.sh
 
 else :
  bash ap.sh
