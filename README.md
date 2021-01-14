@@ -4,10 +4,7 @@
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/bruteForces/main/Screenshot_20201020_214357.jpg)
 
 ### FIND...ME.
-
-
-
-
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain/)👈
 
 ## Wordlist
 # type these worldlist
