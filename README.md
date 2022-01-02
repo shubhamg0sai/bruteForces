@@ -1,12 +1,11 @@
 # bruteForces
 
 ## screenshot
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/bruteForces/main/Screenshot_20201020_214357.jpg)
-
-### FIND...ME.
+![ ](https://raw.githubusercontent.com/shubhamg0sai/bruteForces/main/Screenshot_20201020_214357.jpg)
 
 Instagram account
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
+
 
 ## Wordlist
 # type these worldlist
@@ -55,7 +54,7 @@ pkg install git
 
 pkg install python2
 
-git clone https://github.com/ShuBhamg0sain/bruteForces
+git clone https://github.com/shubhamg0sai/bruteForces
 
 cd bruteForces
 
